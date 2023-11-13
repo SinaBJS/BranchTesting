@@ -6,6 +6,7 @@ public abstract class Animal {
         this.name = name;
     }
 
-    public void makeSound(){
-    }
+    public abstract void makeSound();
+
+    public abstract boolean eat(String foodType);
 }
