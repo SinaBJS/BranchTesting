@@ -15,5 +15,8 @@ public class Main {
 
         cat1.mood(true);
         cat1.mood(false);
+
+        dog1.jump(1.5);
+        cat1.jump(1.7);
     }
 }
