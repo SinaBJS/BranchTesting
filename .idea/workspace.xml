@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b08fac0-6eb5-4d86-b2a9-c83ff93dba10" name="Changes" comment="Gitignore ændret">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
@@ -25,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="jump-feature" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "mood-feature",
+    "git-widget-placeholder": "jump-feature",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699877244118</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Mood branch added. mood function added">
+      <option name="closed" value="true" />
+      <created>1699881281491</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699881281491</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +145,7 @@
     <MESSAGE value="Dog Class created" />
     <MESSAGE value="Cat Class created" />
     <MESSAGE value="Gitignore ændret" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gitignore ændret" />
+    <MESSAGE value="Mood branch added. mood function added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mood branch added. mood function added" />
   </component>
 </project>

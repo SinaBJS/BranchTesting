@@ -1,6 +1,6 @@
 public abstract class Animal {
 
-    private String name;
+    protected String name;
 
     public Animal(String name) {
         this.name = name;
@@ -11,4 +11,6 @@ public abstract class Animal {
     public abstract boolean eat(String foodType);
 
     public abstract void mood(boolean mood);
+
+    public abstract void jump(double distance);
 }
